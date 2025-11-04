@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-linear-to-br from-orange-50 to-orange-100 min-h-screen flex justify-center items-center;
+  font-family: 'Inter', sans-serif;
+}
